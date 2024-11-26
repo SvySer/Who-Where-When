@@ -12,7 +12,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.1
 MarkupSafe==1.1.1
 pefile==2019.4.18
-pip==20.0.2
+pip==21.1
 pywin32-ctypes==0.2.0
 requests==2.23.0
 setuptools==39.0.1
